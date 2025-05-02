@@ -1,5 +1,5 @@
 <?php
-$instance['hypixel'] = array_merge($instance['hypixel'], array(
+$instance['1.8.9'] = array_merge($instance['1.8.9'], array(
     "loadder" => array(
         "minecraft_version" => "1.8.9",
         "loadder_type" => "forge",
