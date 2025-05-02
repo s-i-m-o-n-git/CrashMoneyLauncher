@@ -27,9 +27,9 @@ $instance['hypixel'] = array_merge($instance['hypixel'], array(
     )
 ));
 
-$instance['PokeMoonX'] = array_merge($instance['PokeMoonX'], array(
+$instance['CrashMoney'] = array_merge($instance['CrashMoney'], array(
     "loadder" => array(
-        "minecraft_version" => "1.16.5",
+        "minecraft_version" => "1.12.2",
         "loadder_type" => "forge",
         "loadder_version" => "1.16.5-36.2.35"
     ),
@@ -39,8 +39,8 @@ $instance['PokeMoonX'] = array_merge($instance['PokeMoonX'], array(
     "whitelistActive" => false,
     "status" => array(
         "nameServer" => "PokeMoonX",
-        "ip" => "178.32.106.234",
-        "port" => 25599
+        "ip" => "mchub.com",
+        "port" => 25565
     )
 ));
 ?>
