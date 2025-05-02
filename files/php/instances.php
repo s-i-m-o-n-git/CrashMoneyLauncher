@@ -38,7 +38,7 @@ $instance['CrashMoney'] = array_merge($instance['CrashMoney'], array(
     "whitelist" => array(),
     "whitelistActive" => false,
     "status" => array(
-        "nameServer" => "PokeMoonX",
+        "nameServer" => "CrashMoney",
         "ip" => "mchub.com",
         "port" => 25565
     )
