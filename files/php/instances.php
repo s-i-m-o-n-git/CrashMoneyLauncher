@@ -31,7 +31,7 @@ $instance['CrashMoney'] = array_merge($instance['CrashMoney'], array(
     "loadder" => array(
         "minecraft_version" => "1.12.2",
         "loadder_type" => "forge",
-        "loadder_version" => "1.16.5-36.2.35"
+        "loadder_version" => "1.12.2-14.23.5.2860"
     ),
     "verify" => false,
     "ignored" => array(),
