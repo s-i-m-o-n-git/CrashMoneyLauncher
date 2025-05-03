@@ -5,7 +5,7 @@
     "description": "Launcher Minecraft pour le serveur CrashMoney",
     "main": "src/app.js",
     "author": "Simon",
-    "url": "https://fondationprototype.ovh/CrashMoneyLauncher-main/",
+    "url": "CHANGE URL SERVER HERE",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
